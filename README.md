@@ -25,3 +25,24 @@ Der Code basiert vollständig auf der in Phase 1 und Phase 2 definierten Archite
 
 ## 📁 Projektstruktur
 
+projekt/
+│
+├── domain/ # Domänenklassen
+├── controller/ # DashboardController (Bindeglied GUI↔Domäne)
+├── persistence/ # Repository + JSON-Adapter
+├── ui/ # Tkinter GUI
+│
+└── main.py # Einstiegspunkt
+
+
+---
+
+## ▶️ Installation & Start
+
+### Voraussetzungen
+- Python 3.12+
+- pip installiert
+
+### Installation
+```bash
+pip install -r requirements.txt   # optional falls benutzt
