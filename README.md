@@ -5,7 +5,8 @@ Dieses Repository enthält den Dashboard-Prototypen für den Kurs
 an der IU Internationalen Hochschule.
 
 Der Prototyp bildet den Studiengang **„Cyber Security Bachelor“** ab.  
-Die Architektur orientiert sich an Phase 1 und Phase 2 (UML, Domänenmodell, Repository-Pattern, Ports/Adapter, Tkinter-GUI).
+Die Architektur orientiert sich an Phase 1 und Phase 2  
+(UML, Domänenmodell, Repository-Pattern, Ports/Adapter, Tkinter-GUI).
 
 Getestet u. a. unter Windows 11 und macOS Tahoe 26.01.1.
 
@@ -48,7 +49,6 @@ Getestet u. a. unter Windows 11 und macOS Tahoe 26.01.1.
 ## Projektstruktur
 
 ```text
-
 studien-dashboard-python/
 │
 ├── domain/                  # Domänenklassen (Studiengang, Semester, Modul, ...)
@@ -61,28 +61,3 @@ studien-dashboard-python/
 ├── requirements.txt         # Python-Abhängigkeiten (pandas, openpyxl, ...)
 ├── main.py                  # Einstiegspunkt: startet die GUI
 └── README.md                # dieses Dokument
-
----
-## Projektstruktur
-
-## Installation und Start:
-
-
-Voraussetzungen
-
-- Python 3.12 oder höher
-- pip installiert
-- optional: Visual Studio Code mit Python-Erweiterung
-
-bash:
-- python --version
-- python -m pip --version
-
-Excel-Datei mit Modulen erzeugen (falls noch nicht vorhande
- - python create_module_excel.py ausführen
-
-Dashboard starten:
-
-- python main.py
-
-
