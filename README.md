@@ -61,3 +61,31 @@ studien-dashboard-python/
 ├── requirements.txt         # Python-Abhängigkeiten (pandas, openpyxl, ...)
 ├── main.py                  # Einstiegspunkt: startet die GUI
 └── README.md                # dieses Dokument
+
+---
+
+## Installation & Start
+
+### Voraussetzungen
+
+- Python 3.12 oder höher
+- `pip` installiert
+
+Kurz prüfen:
+
+```bash
+python --version
+python -m pip --version
+
+
+
+Excel-Datei mit Modulen erstellen (falls noch nicht vorhanden):
+
+- python create_module_excel.py
+
+---
+
+## Dashboard starten
+
+- python main.py
+
