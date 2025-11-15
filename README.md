@@ -61,6 +61,7 @@ studien-dashboard-python/
 ├── main.py                  # Einstiegspunkt: startet die GUI
 └── README.md                # dieses Dokument
 
+---
 
 ## Installation und Start:
 
