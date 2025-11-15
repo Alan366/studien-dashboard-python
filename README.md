@@ -62,7 +62,7 @@ studien-dashboard-python/
 └── README.md                # dieses Dokument
 
 
-Installation und Start:
+## Installation und Start:
 
 Voraussetzungen
 
