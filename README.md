@@ -64,7 +64,7 @@ studien-dashboard-python/
 ---
 
 ## Installation und Start:
-
+```text
 Voraussetzungen
 
 - Python 3.12 oder höher
