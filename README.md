@@ -48,6 +48,7 @@ Getestet u. a. unter Windows 11 und macOS Tahoe 26.01.1.
 ## Projektstruktur
 
 ```text
+
 studien-dashboard-python/
 │
 ├── domain/                  # Domänenklassen (Studiengang, Semester, Modul, ...)
@@ -62,9 +63,11 @@ studien-dashboard-python/
 └── README.md                # dieses Dokument
 
 ---
+## Projektstruktur
 
 ## Installation und Start:
-```text
+
+
 Voraussetzungen
 
 - Python 3.12 oder höher
