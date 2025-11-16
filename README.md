@@ -70,9 +70,17 @@ studien-dashboard-python/
 - Python 3.12 oder höher
 - `pip` installiert
 
+Virtuelle Umgebung erstellen: Dies erstellt einen isolierten. venv- Ordner für die Projekt-Bibliotheken: python -m venv .venv
+
+Virtuelle Umgebung aktivieren:
+• Für Windows (CMD/PowerShell): .\.venv\Scripts\activate
+• Für macOS / Linux: source .venv/bin/activate
+
+
+
 Kurz prüfen:
 
-```bash
+
 python --version
 python -m pip --version
 
